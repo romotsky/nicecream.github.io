@@ -5,7 +5,7 @@ The landing page for Los Angeles' finest ice-cream startup. Featuring all of the
 See the `/flavors` folder for all of the flavors in the works. 
 
 
-## Built off:
+## Acknowledgements:
 
-+ [Live Preview](http://demos.creative-tim.com/coming-sssoon-demo-image-background)
++ [HTML Template](http://demos.creative-tim.com/coming-sssoon-demo-image-background)
 
