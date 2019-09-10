@@ -744,9 +744,7 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
     position: relative;
     z-index: 4;
 }
-.main .motto{
-    min-height: 140px;
-}
+
 .main .motto, .main .subscribe .info-text{
     font-size: 28px;
     color: #FFFFFF;
@@ -755,6 +753,16 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
     margin-top: 50px;
     
 }
+
+.main .tagline{
+    font-size: 20px;
+    color: #FFFFFF;
+    text-shadow: 0 1px 4px rgba(0, 0, 0, 0.33);
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
 .main .subscribe .info-text{
     font-size: 18px;
     margin-bottom: 30px;
